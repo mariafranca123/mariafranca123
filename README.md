@@ -14,4 +14,5 @@
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
+## ESTATÍSTICAS
+![Mariafranca123 GitHub stats]( https://github-readme-stats.vercel.app/api?username=mariafranca123&show_icons=true&theme=dracula)
